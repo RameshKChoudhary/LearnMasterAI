@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+
+
+ python -m uvicorn main:app --reload --port 8000
+>>  to run back end
