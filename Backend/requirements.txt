@@ -1,8 +1,7 @@
 fastapi
 uvicorn
-openai
+pydantic
 python-dotenv
-
-
- python -m uvicorn main:app --reload --port 8000
->>  to run back end
+requests
+nltk
+mangum
