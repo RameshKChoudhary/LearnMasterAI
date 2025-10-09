@@ -73,7 +73,7 @@ function App() {
           <div className="flex items-center justify-center mb-4">
             <div className="w-12 h-12 text-4xl mr-3">🧠</div>
             <h1 className="text-5xl font-bold bg-gradient-to-r from-cyan-400 via-blue-400 to-purple-400 bg-clip-text text-transparent">
-              ParaMaster AI
+              LearnMaster AI
             </h1>
             <div className="w-8 h-8 text-2xl ml-3 animate-pulse">✨</div>
           </div>
